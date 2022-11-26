@@ -30,7 +30,7 @@ character = (
 final_phrase = (
     "Men's Legacy",
     "The Flight",
-    "Tentacles",
+    "Tentacles2",
     "Men's Legacy",
     "New Worlds",
     "The Future",
